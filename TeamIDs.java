@@ -3,7 +3,7 @@ public class TeamIDs {
         System.out.println("ΑΜ μέλος 1: 8220011");
         System.out.println("ΑΜ μέλος 2: 8230107");
         System.out.println("ΑΜ μέλος 3: 8230059");
-        System.out.println("ΑΜ μέλος 4: 8ΧΧΧΧΧΧ");
+        System.out.println("ΑΜ μέλος 4: 8230153");
         System.out.println("ΑΜ μέλος 5: 8ΧΧΧΧΧΧ");
         System.out.println("ΑΜ μέλος 6: 8ΧΧΧΧΧΧ");
         System.out.println("ΑΜ μέλος 7: 8ΧΧΧΧΧΧ");
