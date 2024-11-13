@@ -1,7 +1,7 @@
 public class TeamIDs {
     public static void main (String[] args) {
         System.out.println("ΑΜ μέλος 1: 8220011");
-        System.out.println("ΑΜ μέλος 2: 8ΧΧΧΧΧΧ");
+        System.out.println("ΑΜ μέλος 2: 8230107");
         System.out.println("ΑΜ μέλος 3: 8ΧΧΧΧΧΧ");
         System.out.println("ΑΜ μέλος 4: 8ΧΧΧΧΧΧ");
         System.out.println("ΑΜ μέλος 5: 8ΧΧΧΧΧΧ");
